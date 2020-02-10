@@ -1,6 +1,6 @@
 # NeuralNetworks
 
-- GradientDescentOptimizers.ipynb contains code that implements a custom AdaGrad neural network optimizer.
+- GradientDescentOptimizers.ipynb contains code to implement a custom AdaGrad neural network optimizer.
 
 - LogisticRegression.ipynb contains code for training a logistic regression classification model from scratch in PyTorch.
 
