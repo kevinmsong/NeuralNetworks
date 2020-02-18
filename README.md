@@ -4,4 +4,4 @@
 
 - LogisticRegression.ipynb contains code for training a neural-network-based logistic regression classification model from scratch in PyTorch.
 
-- MNIST.ipynb contains code for implementing, training, and error-scoring feedforward neural networks for recognizing handwritten MNIST digits in Keras (97% macro average test F1 score).
+- MNIST.ipynb contains code for implementing, training, and error-scoring feedforward neural networks, in Keras, for recognizing handwritten MNIST digits (97% macro average test F1 score).
